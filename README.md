@@ -1,6 +1,6 @@
 # SWAPPER (working prototype)
 
-## Demonstrates atomic swap of anything
+## Demonstrates atomic swap of anything on the Internet Computer
 
 Beta - testing. Don't use with real tokens yet.
 
