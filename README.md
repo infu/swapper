@@ -4,7 +4,9 @@ Beta - testing. Don't use with real tokens yet.
 
 Swapper = Reciever = Custodian
 
-Swapper can be immutable and code verified
+Swapper can be immutable and code verified.
+Swapper is all you need for DeFi. The mechanicsm could become a library so it's functionality is merged with one of the token ledgers.
+This version swaps between two tokens and two participants. But the same system can be used to swap between 2+ tokens and 2+ participants.
 
 Maker - someone who has created an order and waits for it to be fulfilled by someone else. That could be a:
 
@@ -13,10 +15,11 @@ Maker - someone who has created an order and waits for it to be fulfilled by som
 - ICP+BTC for ICP_BTC_LP
 - staking ANV for ANV_VLP
 
+Example of a swap UI:
 ![Anvil UI](/img/example.jpg?raw=true)
-The UI/design is property of Anvil.
+The UI above is property of Anvil.
 
-The repo with code is Apache 2.0
+All code is Apache 2.0
 
 Participants put tokens in boxes (accounts controlled by the Swapper) according to order (description of the swap).
 
