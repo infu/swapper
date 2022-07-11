@@ -1,4 +1,6 @@
-# SWAPPER (working prototype) Demonstrates atomic swap of anything
+# SWAPPER (working prototype)
+
+## Demonstrates atomic swap of anything
 
 Beta - testing. Don't use with real tokens yet.
 
